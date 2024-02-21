@@ -15,7 +15,7 @@ struct ContentView: View {
             Text("hhhsb is this you...?")
             Text("wwess is this you...?")
         }
-        .foregroundColor(.red)
+        .foregroundColor(.green)
         .navigationTitle("Hello")
         .padding()
     }
