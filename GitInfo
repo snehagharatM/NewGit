@@ -1,0 +1,18 @@
+Steps -
+
+1. create a new repository.
+    -- Go to Integrate and select New git repository.
+    
+2. whenever you create a repository is by default first commit.
+
+3. There is a changes in project then you have to commit.
+    -- Go to Integrate and select commit.
+    
+4.Create a new Branch.
+    -- Right click on current repository and select new Branch give name for that repository.
+
+5.Merge a code between two repository.
+    -- The current branch is always the branch you want to merge into.
+    -- Right click 
+
+5. command + up arrow + . to see the Hidden folder.
