@@ -10,11 +10,11 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Text("Sneha is this you...?")
             Text("You is this you...?")
             Text("hhhsb is this you...?")
             Text("wwess is this you...?")
             Text("Sneha is this you...?")
+            Text("Sneha is this youuuuuuuuuuuuuuuuu...?")
         }
         .foregroundColor(.purple)
         .navigationTitle("Hello")
