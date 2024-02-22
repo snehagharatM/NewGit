@@ -14,6 +14,7 @@ struct ContentView: View {
             Text("You is this you...?")
             Text("hhhsb is this you...?")
             Text("wwess is this you...?")
+            Text("Sneha is this you...?")
         }
         .foregroundColor(.purple)
         .navigationTitle("Hello")
